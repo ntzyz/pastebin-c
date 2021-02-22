@@ -4,6 +4,8 @@
 
 <del>放假在家闲的（</del>
 
+![screenshot](/screenshot.jpg)
+
 ---
 
 Tested on Ubuntu 18.04.5 with nginx. Compile:
